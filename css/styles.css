@@ -11581,3 +11581,12 @@ footer a:hover, footer a:active, footer a:focus {
     padding-right: 16px !important;
    }
 }
+
+@media (max-width: 433px) {
+  .navbar > .container {
+    justify-content: center;
+  }
+  #header > .container {
+    padding-top: 16px;
+  }
+}
