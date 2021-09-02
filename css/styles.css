@@ -11593,3 +11593,13 @@ footer a:hover, footer a:active, footer a:focus {
     padding-top: 16px;
   }
 }
+
+.hcpc {
+  width: 100px;
+}
+
+@media (min-width: 1200px) {
+  .hcpc:not(.foot) {
+    width: 150px;
+  }
+}
