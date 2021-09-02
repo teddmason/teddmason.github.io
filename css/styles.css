@@ -11580,6 +11580,9 @@ footer a:hover, footer a:active, footer a:focus {
     padding-left: 16px !important;
     padding-right: 16px !important;
    }
+   .row.contact {
+     text-align: center;
+   }
 }
 
 @media (max-width: 433px) {
