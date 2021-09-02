@@ -7766,8 +7766,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(183, 185, 247, 0.1) !important;
 }
 
 .bg-dark {
@@ -11533,6 +11532,9 @@ footer a:hover, footer a:active, footer a:focus {
   }
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 15rem;
+  }
+  .navbar-nav {
+    font-size: 1.2rem;
   }
 }
 @media (min-width: 1200px) {
