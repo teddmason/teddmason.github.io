@@ -11554,7 +11554,7 @@ footer a:hover, footer a:active, footer a:focus {
 .bullet {
   display: list-item;
   list-style-type: disc;
-  list-style-position: inside;
+  list-style-position: outside;
   color: rgb(255,0,102);
 }
 
