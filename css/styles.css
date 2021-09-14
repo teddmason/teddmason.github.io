@@ -11603,8 +11603,7 @@ footer a:hover, footer a:active, footer a:focus {
   }
 }
 
-.icon-pink {
-  color: transparent; 
-  text-shadow: 0 0 0 rgb(255,0,102);
-  font-style: normal;
+.icon {
+  width: 24px;
+  vertical-align: middle;
 }
